@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://gimerlich.github.io/sitemap.html.gz
+Sitemap: https://gimerlich.github.io/app/sitemap.html.gz
+Sitemap: https://gimerlich.github.io/assets/sitemap.html.gz
+Sitemap: https://gimerlich.github.io/css/sitemap.html.gz
+Sitemap: https://gimerlich.github.io/includes/sitemap.html.gz
+Sitemap: https://gimerlich.github.io/item/sitemap.html.gz
+Sitemap: https://gimerlich.github.io/src/sitemap.html.gz
